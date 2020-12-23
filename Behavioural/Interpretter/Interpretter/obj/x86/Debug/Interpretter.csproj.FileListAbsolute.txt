@@ -1,0 +1,4 @@
+C:\Projects\DesignPatterns\DesignPatterns\Behavioural\Interpretter\Interpretter\bin\Debug\Interpretter.exe
+C:\Projects\DesignPatterns\DesignPatterns\Behavioural\Interpretter\Interpretter\bin\Debug\Interpretter.pdb
+C:\Projects\DesignPatterns\DesignPatterns\Behavioural\Interpretter\Interpretter\obj\x86\Debug\Interpretter.exe
+C:\Projects\DesignPatterns\DesignPatterns\Behavioural\Interpretter\Interpretter\obj\x86\Debug\Interpretter.pdb

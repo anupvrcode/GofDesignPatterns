@@ -1,0 +1,5 @@
+C:\Projects\DesignPatterns\DesignPatterns\Behavioural\Memento\Memento\bin\Debug\Memento.exe
+C:\Projects\DesignPatterns\DesignPatterns\Behavioural\Memento\Memento\bin\Debug\Memento.pdb
+C:\Projects\DesignPatterns\DesignPatterns\Behavioural\Memento\Memento\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\DesignPatterns\DesignPatterns\Behavioural\Memento\Memento\obj\x86\Debug\Memento.exe
+C:\Projects\DesignPatterns\DesignPatterns\Behavioural\Memento\Memento\obj\x86\Debug\Memento.pdb

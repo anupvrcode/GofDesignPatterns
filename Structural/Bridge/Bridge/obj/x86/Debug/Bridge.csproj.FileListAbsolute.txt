@@ -1,0 +1,4 @@
+C:\Projects\DesignPatterns\DesignPatterns\Structural\Bridge\Bridge\bin\Debug\Bridge.exe
+C:\Projects\DesignPatterns\DesignPatterns\Structural\Bridge\Bridge\bin\Debug\Bridge.pdb
+C:\Projects\DesignPatterns\DesignPatterns\Structural\Bridge\Bridge\obj\x86\Debug\Bridge.exe
+C:\Projects\DesignPatterns\DesignPatterns\Structural\Bridge\Bridge\obj\x86\Debug\Bridge.pdb

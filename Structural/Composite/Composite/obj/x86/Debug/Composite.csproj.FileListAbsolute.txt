@@ -1,0 +1,4 @@
+C:\Projects\DesignPatterns\DesignPatterns\Structural\Composite\Composite\bin\Debug\Composite.exe
+C:\Projects\DesignPatterns\DesignPatterns\Structural\Composite\Composite\bin\Debug\Composite.pdb
+C:\Projects\DesignPatterns\DesignPatterns\Structural\Composite\Composite\obj\x86\Debug\Composite.exe
+C:\Projects\DesignPatterns\DesignPatterns\Structural\Composite\Composite\obj\x86\Debug\Composite.pdb

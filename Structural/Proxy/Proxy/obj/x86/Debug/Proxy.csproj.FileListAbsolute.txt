@@ -1,0 +1,4 @@
+C:\Projects\DesignPatterns\DesignPatterns\Structural\Proxy\Proxy\bin\Debug\Proxy.exe
+C:\Projects\DesignPatterns\DesignPatterns\Structural\Proxy\Proxy\bin\Debug\Proxy.pdb
+C:\Projects\DesignPatterns\DesignPatterns\Structural\Proxy\Proxy\obj\x86\Debug\Proxy.exe
+C:\Projects\DesignPatterns\DesignPatterns\Structural\Proxy\Proxy\obj\x86\Debug\Proxy.pdb

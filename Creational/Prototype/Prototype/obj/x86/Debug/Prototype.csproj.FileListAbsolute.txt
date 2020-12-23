@@ -1,0 +1,4 @@
+C:\Projects\DesignPatterns\DesignPatterns\Creational\Prototype\Prototype\bin\Debug\Prototype.exe
+C:\Projects\DesignPatterns\DesignPatterns\Creational\Prototype\Prototype\bin\Debug\Prototype.pdb
+C:\Projects\DesignPatterns\DesignPatterns\Creational\Prototype\Prototype\obj\x86\Debug\Prototype.exe
+C:\Projects\DesignPatterns\DesignPatterns\Creational\Prototype\Prototype\obj\x86\Debug\Prototype.pdb

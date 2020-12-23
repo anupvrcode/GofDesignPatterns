@@ -1,0 +1,4 @@
+C:\Projects\DesignPatterns\DesignPatterns\Behavioural\Strategy\Strategy\bin\Debug\Strategy.exe
+C:\Projects\DesignPatterns\DesignPatterns\Behavioural\Strategy\Strategy\bin\Debug\Strategy.pdb
+C:\Projects\DesignPatterns\DesignPatterns\Behavioural\Strategy\Strategy\obj\x86\Debug\Strategy.exe
+C:\Projects\DesignPatterns\DesignPatterns\Behavioural\Strategy\Strategy\obj\x86\Debug\Strategy.pdb

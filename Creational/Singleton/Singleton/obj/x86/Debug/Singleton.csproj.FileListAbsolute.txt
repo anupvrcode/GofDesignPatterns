@@ -1,0 +1,5 @@
+C:\Projects\DesignPatterns\DesignPatterns\Creational\Singleton\Singleton\bin\Debug\Singleton.exe
+C:\Projects\DesignPatterns\DesignPatterns\Creational\Singleton\Singleton\bin\Debug\Singleton.pdb
+C:\Projects\DesignPatterns\DesignPatterns\Creational\Singleton\Singleton\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\DesignPatterns\DesignPatterns\Creational\Singleton\Singleton\obj\x86\Debug\Singleton.exe
+C:\Projects\DesignPatterns\DesignPatterns\Creational\Singleton\Singleton\obj\x86\Debug\Singleton.pdb

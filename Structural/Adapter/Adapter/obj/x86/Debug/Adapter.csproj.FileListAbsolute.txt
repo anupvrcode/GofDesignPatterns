@@ -1,0 +1,4 @@
+C:\Projects\DesignPatterns\DesignPatterns\Structural\Adapter\Adapter\bin\Debug\Adapter.exe
+C:\Projects\DesignPatterns\DesignPatterns\Structural\Adapter\Adapter\bin\Debug\Adapter.pdb
+C:\Projects\DesignPatterns\DesignPatterns\Structural\Adapter\Adapter\obj\x86\Debug\Adapter.exe
+C:\Projects\DesignPatterns\DesignPatterns\Structural\Adapter\Adapter\obj\x86\Debug\Adapter.pdb

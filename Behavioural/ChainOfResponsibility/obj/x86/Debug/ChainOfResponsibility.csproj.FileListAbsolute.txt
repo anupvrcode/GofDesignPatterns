@@ -1,0 +1,4 @@
+C:\Projects\DesignPatterns\DesignPatterns\Behavioural\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.exe
+C:\Projects\DesignPatterns\DesignPatterns\Behavioural\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.pdb
+C:\Projects\DesignPatterns\DesignPatterns\Behavioural\ChainOfResponsibility\obj\x86\Debug\ChainOfResponsibility.exe
+C:\Projects\DesignPatterns\DesignPatterns\Behavioural\ChainOfResponsibility\obj\x86\Debug\ChainOfResponsibility.pdb

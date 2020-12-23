@@ -1,0 +1,4 @@
+C:\Projects\DesignPatterns\DesignPatterns\Behavioural\Command\Command\bin\Debug\Command.exe
+C:\Projects\DesignPatterns\DesignPatterns\Behavioural\Command\Command\bin\Debug\Command.pdb
+C:\Projects\DesignPatterns\DesignPatterns\Behavioural\Command\Command\obj\x86\Debug\Command.exe
+C:\Projects\DesignPatterns\DesignPatterns\Behavioural\Command\Command\obj\x86\Debug\Command.pdb

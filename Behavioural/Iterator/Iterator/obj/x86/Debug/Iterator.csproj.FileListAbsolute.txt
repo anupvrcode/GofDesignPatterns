@@ -1,0 +1,4 @@
+C:\Projects\DesignPatterns\DesignPatterns\Behavioural\Iterator\Iterator\bin\Debug\Iterator.exe
+C:\Projects\DesignPatterns\DesignPatterns\Behavioural\Iterator\Iterator\bin\Debug\Iterator.pdb
+C:\Projects\DesignPatterns\DesignPatterns\Behavioural\Iterator\Iterator\obj\x86\Debug\Iterator.exe
+C:\Projects\DesignPatterns\DesignPatterns\Behavioural\Iterator\Iterator\obj\x86\Debug\Iterator.pdb

@@ -1,0 +1,5 @@
+C:\Projects\DesignPatterns\DesignPatterns\Behavioural\State\State\bin\Debug\State.exe
+C:\Projects\DesignPatterns\DesignPatterns\Behavioural\State\State\bin\Debug\State.pdb
+C:\Projects\DesignPatterns\DesignPatterns\Behavioural\State\State\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\DesignPatterns\DesignPatterns\Behavioural\State\State\obj\x86\Debug\State.exe
+C:\Projects\DesignPatterns\DesignPatterns\Behavioural\State\State\obj\x86\Debug\State.pdb

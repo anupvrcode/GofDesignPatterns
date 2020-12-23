@@ -1,0 +1,9 @@
+C:\Projects\DesignPatterns\DesignPatterns\Creational\Abstract Factory\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Projects\DesignPatterns\DesignPatterns\Creational\Abstract Factory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Projects\DesignPatterns\DesignPatterns\Creational\Abstract Factory\AbstractFactory\obj\x86\Debug\AbstractFactory.exe
+C:\Projects\DesignPatterns\DesignPatterns\Creational\Abstract Factory\AbstractFactory\obj\x86\Debug\AbstractFactory.pdb
+C:\Trainings\DesignPatterns\Creational\Abstract Factory\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Trainings\DesignPatterns\Creational\Abstract Factory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Trainings\DesignPatterns\Creational\Abstract Factory\AbstractFactory\obj\x86\Debug\AbstractFactory.csprojAssemblyReference.cache
+C:\Trainings\DesignPatterns\Creational\Abstract Factory\AbstractFactory\obj\x86\Debug\AbstractFactory.exe
+C:\Trainings\DesignPatterns\Creational\Abstract Factory\AbstractFactory\obj\x86\Debug\AbstractFactory.pdb
